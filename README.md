@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daiana</h1>
 <h3 align="center">A curious and proactive frontend developer from Buenos Aires, Argentina</h3>
 
-- 💻 I’m currently working on **my portfolio**
+- 💻 Now I'm working on **my portfolio**
 
 - 🌱 I’m currently learning **ReactJS and Bootstrap**
 
