@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **ReactJS and Bootstrap**
 
-- 💬 Ask me about **wordpress**
-
 - 📫 How to reach me **darena@frba.utn.edu.ar**
 
 <h3 align="left">Connect with me:</h3>
