@@ -3,7 +3,7 @@
 
 - 💻 Now I'm working on **a Notes APP (Node.js)**
 
-- 🌱 I’m currently learning **ReactJS and Bootstrap**
+- 🌱 I’m currently learning **NodeJS & MongoDB**
 
 - 📫 How to reach me **darena@frba.utn.edu.ar**
 
