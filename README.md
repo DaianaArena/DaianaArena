@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NodeJS & MongoDB**
 
-- 📫 How to reach me **darena@frba.utn.edu.ar**
+- 📫 How to reach me **arenadaianam@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
