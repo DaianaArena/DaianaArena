@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daiana</h1>
 <h3 align="center">A curious and proactive frontend developer from Buenos Aires, Argentina</h3>
 
-- 💻 Now I'm working on **a weather APP (Node.js)**
+- 💻 Now I'm working on **Potter APP (Node.js)**
 
 - 🌱 I’m currently learning **NodeJS & MongoDB**
 
