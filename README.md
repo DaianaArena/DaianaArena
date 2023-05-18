@@ -3,9 +3,9 @@
 
 - 💻 Now I'm working as a **React Developer and IT Instructor**
 
-- 🌱 I’m currently learning **Cybersecurity**
+- 🌱 I’m currently learning **NEXT JS**
 
-- 📫 How to reach me **arenadaianam@gmail.com**
+- 📫 How to reach me? **arenadaianam@gmail.com**
 
 <h3 align="left">Community Enthusiast:</h3>
 In addition to my development work, I am also passionate about giving back to the community. To this end, I create simple yet customizable boilerplate templates that are available for anyone to use. I believe that by sharing our knowledge and expertise, we can create a stronger and more collaborative community of developers. So if you're looking for a starting point for your next project, be sure to check out my templates! Finally, I am always interested in networking and collaborating with other developers. Let's work together to bring your ideas to life and build a better community!
