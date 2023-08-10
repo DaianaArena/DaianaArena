@@ -3,7 +3,7 @@
 
 - 💻 Now I'm working as a **React Developer and IT Instructor**
 
-- 🌱 I’m currently learning **NEXT JS**
+- 🌱 I’m currently learning **JAVA**
 
 - 📫 How to reach me? **arenadaianam@gmail.com**
 
