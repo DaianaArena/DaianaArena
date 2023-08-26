@@ -19,6 +19,7 @@ Check out my templates here:
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/arenadaianadev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy me a coffee" /></a></p><br><br>
 
+<div style="display: flex;">
 <div style="width: 50%"> 
 <h3 align="left">Languages and Tools:</h3> <p align="left"> 
   
@@ -36,7 +37,7 @@ Check out my templates here:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaianaArena)](https://github.com/DaianaArena)
  </div>
-
+</div>
 
 
 <h3 align="left">Connect with me:</h3>
