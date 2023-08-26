@@ -59,11 +59,12 @@ Hey there! Thanks for checking out my project. While I'm serious about coding an
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ " target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" /></a>
   <br>
 But don't worry, I promise I won't sneak any more Rick Astley into this README. 
-Welcome to the top-secret section of this README! 🕵️‍♂️ You've stumbled upon a hidden gem that's essential for any developer. Click the link below to unlock a revolutionary new coding tool:
+<br>
+🕵️‍♂️ You've stumbled upon a hidden gem that's essential for any developer. Click the link below to unlock a revolutionary new coding tool:
 
-[![Supercharged Code Accelerator](https://img.shields.io/badge/Supercharged%20Code%20Accelerator-Click%20Here-blue.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Supercharged React Code Accelerator](https://img.shields.io/badge/Supercharged%20Code%20Accelerator-Click%20Here-blue.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-Your coding skills will thank you for it! But shhh... don't tell anyone you found it here. 🤫
+Your coding skills will thank you for it! 🎉
 
 </details>
 
