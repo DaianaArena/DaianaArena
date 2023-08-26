@@ -16,9 +16,9 @@
 - 💜 Interests: music, reading enthusiast, foodie, gaming
 - 😄 Passionate about accessibility and committed to a web that works for everyone
 
-Find me around the web 🌎:
- - [![Linkedin: Daiana](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arenadaiana/)](https://www.linkedin.com/in/arenadaiana/)
--  [![Portfolio](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://daianaarena.vercel.app/)](https://daianaarena.vercel.app/)
+### Find me around the web 🌎:
+ [![Linkedin: Daiana](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arenadaiana/)](https://www.linkedin.com/in/arenadaiana/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://daianaarena.vercel.app/)](https://daianaarena.vercel.app/)
 
  ### 📫 Like to meet me?
 
