@@ -34,13 +34,9 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 <h3 align="left">Community Enthusiast:</h3>
 In addition to my development work, I am also passionate about giving back to the community. To this end, I create simple yet customizable boilerplate templates that are available for anyone to use. I believe that by sharing our knowledge and expertise, we can create a stronger and more collaborative community of developers. So if you're looking for a starting point for your next project, be sure to check out my templates! Finally, I am always interested in networking and collaborating with other developers. Let's work together to bring your ideas to life and build a better community!
 
+<h4 align="left"> ⭐ Open source projects ⭐</h4>
 Check out my templates here:
 <table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>⭐ Open source projects ⭐</b></td>
-    </tr>
-  </thead>
   <tbody>
     <tr>
 <td><a href="https://github.com/DaianaArena/vite-tailwind-localization-template"><b>  Multilingual Vite Experience Boilerplate </b></a></td>
