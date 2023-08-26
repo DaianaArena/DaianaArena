@@ -50,11 +50,13 @@ In addition to my development work, I am also passionate about giving back to th
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/arenadaianadev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy me a coffee" /></a></p><br><br>
 
-<h3 align="left">There's more:</h3>
+<h3 align="left">⭐ There's more open Source ⭐</h3>
 <details>
   <summary><b>🎉 Secret Developer Tool</b></summary>
 Hey there! Thanks for checking out my project. While I'm serious about coding and community, I also believe in having a bit of fun. So, here's a little surprise for you:
+  <br>
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ " target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" /></a>
+  <br>
 But don't worry, I promise I won't sneak any more Rick Astley into this README. 
 Welcome to the top-secret section of this README! 🕵️‍♂️ You've stumbled upon a hidden gem that's essential for any developer. Click the link below to unlock a revolutionary new coding tool:
 
