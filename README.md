@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daiana</h1>
 <h3 align="center">A Front-end Developer by day ☼ and a  Community Enthusiast by night ☾</h3>
-
+<img align='right' src="https://daianaarena.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhome.f897959e.png&w=640&q=75" width="230">
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
