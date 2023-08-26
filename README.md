@@ -10,6 +10,8 @@
 <h3 align="left">Community Enthusiast:</h3>
 In addition to my development work, I am also passionate about giving back to the community. To this end, I create simple yet customizable boilerplate templates that are available for anyone to use. I believe that by sharing our knowledge and expertise, we can create a stronger and more collaborative community of developers. So if you're looking for a starting point for your next project, be sure to check out my templates! Finally, I am always interested in networking and collaborating with other developers. Let's work together to bring your ideas to life and build a better community!
 
+[![Vite+Tailwind+i18n Boilerplate](https://github.com/DaianaArena/vite-tailwind-localization-template)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/arenadaiana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arenadaiana/" height="30" width="40" /></a> <a href="https://www.behance.net/origenmkt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/origenmkt" height="30" width="40" /></a> </p>
