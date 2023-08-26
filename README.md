@@ -10,7 +10,7 @@
 <h3 align="left">Community Enthusiast:</h3>
 In addition to my development work, I am also passionate about giving back to the community. To this end, I create simple yet customizable boilerplate templates that are available for anyone to use. I believe that by sharing our knowledge and expertise, we can create a stronger and more collaborative community of developers. So if you're looking for a starting point for your next project, be sure to check out my templates! Finally, I am always interested in networking and collaborating with other developers. Let's work together to bring your ideas to life and build a better community!
 
-[![Vite+Tailwind+i18n Boilerplate](https://github-readme-stats.vercel.app/api?username=DaianaArena)](https://github.com/DaianaArena/vite-tailwind-localization-template)
+[![Vite+Tailwind+i18n Boilerplate](https://github-readme-stats.vercel.app/api/pin/?username=DaianaArena&repo=vite-tailwind-localization-template)](https://github.com/DaianaArena/vite-tailwind-localization-template)
 
 [![Vite+Tailwind+i18n Boilerplate](https://github.com/DaianaArena/vite-tailwind-localization-template)
 
