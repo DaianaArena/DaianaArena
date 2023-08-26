@@ -10,11 +10,11 @@
 </p>
 
 
-🏢 I'm currently working full-time as a React Developer and IT Instructor
-🌱 Learning more about and studying: Open Source, Java
-💬 Ping me about: diversity & inclusion, mentorship
-💜 Interests: music, reading enthusiast, foodie, gaming
-😄 Passionate about accessibility and committed to a web that works for everyone
+- 🏢 I'm currently working full-time as a React Developer and IT Instructor
+- 🌱 Learning more about and studying: Open Source, Java
+- 💬 Ping me about: diversity & inclusion, mentorship
+- 💜 Interests: music, reading enthusiast, foodie, gaming
+- 😄 Passionate about accessibility and committed to a web that works for everyone
 
 Find me around the web 🌎:
  [![Linkedin: Daiana](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arenadaiana/)](https://www.linkedin.com/in/arenadaiana/)
