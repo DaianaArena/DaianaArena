@@ -25,10 +25,10 @@ Check out my templates here:
 </p>
 
 <h3 align="left">My GitHub Gists</h3>
-<p align="left">
+
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DaianaArena)](https://github.com/DaianaArena)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaianaArena)](https://github.com/DaianaArena)
-</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/arenadaiana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arenadaiana/" height="30" width="40" /></a> <a href="https://www.behance.net/origenmkt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/origenmkt" height="30" width="40" /></a> </p>
