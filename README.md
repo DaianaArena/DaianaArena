@@ -9,11 +9,23 @@
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
 </p>
 
-- 💻 Now I'm working as a **React Developer and IT Instructor**
 
-- 🌱 I’m currently learning **JAVA**
+🏢 I'm currently working full-time as a React Developer and IT Instructor
+🌱 Learning more about and studying: Open Source, Java
+💬 Ping me about: diversity & inclusion, mentorship
+💜 Interests: music, reading enthusiast, foodie, gaming
+😄 Passionate about accessibility and committed to a web that works for everyone
 
-- 📫 How to reach me? **arenadaianam@gmail.com**
+Find me around the web 🌎:
+ [![Linkedin: Daiana](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arenadaiana/)](https://www.linkedin.com/in/arenadaiana/)
+ [![Portfolio](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://daianaarena.vercel.app/)](https://daianaarena.vercel.app/)
+
+ ### 📫 Like to meet me?
+
+Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+
+<a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+
 
 <h3 align="left">Community Enthusiast:</h3>
 In addition to my development work, I am also passionate about giving back to the community. To this end, I create simple yet customizable boilerplate templates that are available for anyone to use. I believe that by sharing our knowledge and expertise, we can create a stronger and more collaborative community of developers. So if you're looking for a starting point for your next project, be sure to check out my templates! Finally, I am always interested in networking and collaborating with other developers. Let's work together to bring your ideas to life and build a better community!
