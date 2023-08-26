@@ -50,6 +50,7 @@ In addition to my development work, I am also passionate about giving back to th
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/arenadaianadev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy me a coffee" /></a></p><br><br>
 
+<div> 
 <details>
   <summary><b>🎉 Secret Developer Tool</b></summary>
 Hey there! Thanks for checking out my project. While I'm serious about coding and community, I also believe in having a bit of fun. So, here's a little surprise for you:
@@ -63,5 +64,5 @@ Your coding skills will thank you for it! But shhh... don't tell anyone you foun
 
 </details>
 
-
+</div>
 
