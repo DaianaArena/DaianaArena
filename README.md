@@ -50,15 +50,18 @@ In addition to my development work, I am also passionate about giving back to th
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/arenadaianadev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy me a coffee" /></a></p><br><br>
 
-## 🎶 Fun and Games
-
+<details>
+  <summary><b>🎉 Secret Developer Tool</b></summary>
 Hey there! Thanks for checking out my project. While I'm serious about coding and community, I also believe in having a bit of fun. So, here's a little surprise for you:
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ " target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" /></a>
+But don't worry, I promise I won't sneak any more Rick Astley into this README. 
+Welcome to the top-secret section of this README! 🕵️‍♂️ You've stumbled upon a hidden gem that's essential for any developer. Click the link below to unlock a revolutionary new coding tool:
 
-[![Never Gonna Give You Up](https://img.shields.io/badge/Never%20Gonna-Give%20You%20Up-red.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Supercharged Code Accelerator](https://img.shields.io/badge/Supercharged%20Code%20Accelerator-Click%20Here-blue.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-Yes, that's right! Click on the badge above for a special treat. 🕺
+Your coding skills will thank you for it! But shhh... don't tell anyone you found it here. 🤫
 
-But don't worry, I promise I won't sneak any more Rick Astley into this README. If you're ready to dive into the real content, keep scrolling! 👇
+</details>
 
 
 
