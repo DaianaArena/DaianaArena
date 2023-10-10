@@ -24,7 +24,7 @@
 ### Find me around the web 🌎:
  [![Linkedin: Daiana](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arenadaiana/)](https://www.linkedin.com/in/arenadaiana/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://daianaarena.vercel.app/)](https://daianaarena.vercel.app/)
-[![Instagram](https://img.shields.io/badge/just%20the%20message-8A2BE2&link=https://www.instagram.com/dai.tsx/)](https://www.instagram.com/dai.tsx/)
+[![Instagram](https://img.shields.io/badge/Instagram-8A2BE2)](https://www.instagram.com/dai.tsx/)
 
 
  ### 📫 Like to meet me?
