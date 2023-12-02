@@ -41,9 +41,10 @@ In addition to my development work, I am also passionate about giving back to th
 <table>
   <tbody>
     <tr>
+<td><a href="https://github.com/DaianaArena/ultimate-frontend-template"><b>  Ultimate frontend Boilerplate </b></a></td>
 <td><a href="https://github.com/DaianaArena/vite-tailwind-localization-template"><b>  Multilingual Vite Experience Boilerplate </b></a></td>
-<td><a href="https://github.com/DaianaArena/reactjs-nextjs-tailwind-boilerplate"><b>  NextJS + Tailwind Boilerplate </b></a></td>
 <td><a href="https://github.com/DaianaArena/react-zoho-widget-boilerplate"><b>  React ZOHO Widget boilerplate </b></a></td>
+<td><a href="https://github.com/DaianaArena/reactjs-nextjs-tailwind-boilerplate"><b>  NextJS + Tailwind Boilerplate </b></a></td>
     </tr>
   </tbody>
 </table>
