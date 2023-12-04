@@ -52,7 +52,7 @@ In addition to my development work, I am also passionate about giving back to th
 Additionally, in response to the challenges posed by layoffs at my workplace, I took the initiative to address unemployment within the developer community. I've created a platform dedicated to providing job opportunities for junior developers. If you're currently seeking employment or know someone who is, I invite you to participate and showcase your profile on our platform. Let's come together to support one another and build a better future for our community.
 
 <a href="https://colabor-ar.vercel.app/" target="_blank">
-<h4 align="left"> ⭐ Be a part of ColaborAR ⭐</h4>
+ ⭐ Be a part of ColaborAR ⭐
 </a>
 
 <h3 align="left">Support:</h3>
