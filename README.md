@@ -15,7 +15,7 @@
 </p>
 
 
-- 🏢 I'm currently working full-time as a React Developer and IT Instructor
+- 🏢 I'm currently working full-time as a Software Developer SSR
 - 🌱 Learning more about and studying: Open Source, Java
 - 💬 Ping me about: diversity & inclusion, mentorship
 - 💜 Interests: music, reading enthusiast, foodie, gaming
