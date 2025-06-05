@@ -15,8 +15,7 @@
 </p>
 
 
-- 🏢 I'm currently working full-time as a Software Developer SR
-- 🌱 Learning more about and studying: React Native, Java
+- 🏢 I'm currently working full-time as a Software Engineer
 - 💬 Ping me about: diversity & inclusion, mentorship
 - 💜 Interests: music, reading enthusiast, foodie, gaming
 - 😄 Passionate about accessibility and committed to a web that works for everyone
